@@ -1,0 +1,6 @@
+src/emucore/Props.o: src/emucore/Props.cxx src/common/bspf.hxx \
+ /opt/ppc-amigaos/usr/include/SDL/SDL_stdinc.h \
+ /opt/ppc-amigaos/usr/include/SDL/SDL_config.h \
+ /opt/ppc-amigaos/usr/include/SDL/SDL_platform.h \
+ /opt/ppc-amigaos/usr/include/SDL/begin_code.h \
+ /opt/ppc-amigaos/usr/include/SDL/close_code.h src/emucore/Props.hxx
